@@ -34,6 +34,29 @@
     </tr>
     </tbody>
 </table>
+<h3>My education projects</h3>
+<table>
+    <thead style="text-align: center">
+    <tr style="border: none">
+        <td><b>🎁 Projects</b></td>
+        <td><b>⭐ Stars</b></td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><a href="https://github.com/vburtelov/cleaning-django-nextjs"><b>Cleaning Django NextJS - Service for ordering apartment cleaning</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vburtelov/cleaning-django-nextjs?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/vburtelov/unversity-frontend-dev"><b>Web page layout according to BEM and RWD rules</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vburtelov/unversity-frontend-dev?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/vburtelov/android-currency-exchange"><b>Android Currency Exchange</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vburtelov/android-currency-exchange?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    </tbody>
+</table>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/vburtelov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="https://t.me/vburtelov" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
