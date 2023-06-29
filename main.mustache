@@ -30,12 +30,12 @@
     </thead>
     <tbody>
     <tr>
-        <td><a href="https://github.com/vburtelov/pricehunt-nextjs"><b>Frontend NextJS PriceHunt - search for the best prices for goods </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/vburtelov/pricehunt-nextjs?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/vburtelov/pricehunt-spring"><b>Backend Spring Cloud PriceHunt - search for the best prices for goods </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/vburtelov/pricehunt-spring?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/vburtelov/pricehunt-nextjs"><b>Frontend NextJS PriceHunt - search for the best prices for goods </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vburtelov/pricehunt-nextjs?style=flat-square&labelColor=343b41"/></td>
     </tr>
     </tbody>
 </table>
